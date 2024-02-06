@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @camille-petersen!
+- 🌱 I’m interested in technology, games, animes and animals 
+- ☕ I’m currently learning Java and PHP
